@@ -1,0 +1,27 @@
+{
+    "name": "Tests.PlayMode",
+    "references": [
+        "UnityEngine.TestRunner",
+        "GemPlay.Core",
+        "GemPlay.Modules.Projects",
+        "GemPlay.Modules.Rest",
+        "GemPlay.Modules.Spawning",
+        "GemPlay.Applications.Main"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll",
+        "RSG.Promise.dll",
+        "Newtonsoft.Json.dll",
+        "Proyecto26.RestClient.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

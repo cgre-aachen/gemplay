@@ -1,0 +1,19 @@
+{
+    "name": "GemPlay.Modules.Rest",
+    "references": [
+        "GemPlay.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Proyecto26.RestClient.dll",
+        "RSG.Promise.dll",
+        "Newtonsoft.Json.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

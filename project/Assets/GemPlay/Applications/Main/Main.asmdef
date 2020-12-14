@@ -1,0 +1,22 @@
+{
+    "name": "GemPlay.Applications.Main",
+    "references": [
+        "GemPlay.Modules.Projects",
+        "GemPlay.Modules.Rest",
+        "GemPlay.Modules.Spawning",
+        "GemPlay.Modules.UIUX",
+        "GemPlay.Integrations.ProjectLoading",
+        "GemPlay.Integrations.ModelEditing",
+        "GemPlay.Integrations.XRModelEditing",
+        "GemPlay.Integrations.GUIEvents"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

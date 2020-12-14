@@ -1,0 +1,14 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="/Assets/Resources/GemPlay/USS/MenuButton.uss" />
+    <ui:VisualElement name="screen" style="flex-grow: 1;">
+        <ui:VisualElement name="info-region" />
+        <ui:VisualElement name="open-region" style="flex-grow: 1;" />
+        <ui:VisualElement name="menu-region" style="flex-direction: row;">
+            <ui:Button display-tooltip-when-elided="True" name="open-project" tooltip="Open project" focusable="false" class="menu-button" style="background-image: resource(&apos;GemPlay/PNG/OpenProject&apos;); -unity-background-scale-mode: scale-to-fit;" />
+            <ui:Button display-tooltip-when-elided="True" name="reset-camera" tooltip="Reset camera" class="menu-button" style="background-image: resource(&apos;GemPlay/PNG/View&apos;);" />
+            <ui:Button display-tooltip-when-elided="false" name="toggle-ar" tooltip="Do nothing" focusable="false" text="AR" class="menu-button" style="background-image: none;" />
+            <ui:Button display-tooltip-when-elided="false" name="toggle-xr" tooltip="Do nothing" focusable="false" text="XR" class="menu-button" style="background-image: none;" />
+            <ui:Button text="Debug" display-tooltip-when-elided="True" name="debug" style="background-color: rgba(50, 50, 50, 0.63); border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px; border-top-left-radius: 22px; border-bottom-left-radius: 22px; border-top-right-radius: 22px; border-bottom-right-radius: 22px; width: 44px; height: 44px; margin-left: 5px; margin-right: 5px; margin-top: 5px; margin-bottom: 5px; font-size: 12px; color: rgb(230, 230, 230);" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

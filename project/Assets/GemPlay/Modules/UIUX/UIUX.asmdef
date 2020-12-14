@@ -1,0 +1,26 @@
+{
+    "name": "GemPlay.Modules.UIUX",
+    "references": [
+        "UnityEngine.UIElementsModule",
+        "UnityEngine.UIElementsGameObjectsModule",
+        "UnityEditor.UIElementsModule",
+        "UnityEditor.UIElementsGameObjectsModule",
+        "Unity.XR.Management",
+        "Unity.XR.Interaction.Toolkit",
+        "Unity.XR.ARFoundation",
+        "Unity.XR.ARSubsystems",
+        "UnityEngine.SpatialTracking",
+        "Unity.RenderPipelines.Universal.Runtime",
+        "LunarConsole",
+        "GemPlay.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

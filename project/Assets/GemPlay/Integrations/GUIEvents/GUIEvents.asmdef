@@ -1,0 +1,23 @@
+{
+    "name": "GemPlay.Integrations.GUIEvents",
+    "references": [
+        "LunarConsole",
+        "GemPlay.Core",
+        "GemPlay.Modules.Projects",
+        "GemPlay.Modules.Rest",
+        "GemPlay.Modules.UIUX",
+        "GemPlay.Integrations.ProjectLoading",
+        "GemPlay.Integrations.XRModelEditing"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "iOS"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

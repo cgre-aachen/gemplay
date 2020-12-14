@@ -1,0 +1,21 @@
+{
+    "name": "GemPlay.Integrations.XRModelEditing",
+    "references": [
+        "Unity.XR.Interaction.Toolkit",
+        "GemPlay.Core",
+        "GemPlay.Modules.Projects",
+        "GemPlay.Modules.Rest",
+        "GemPlay.Modules.Spawning",
+        "GemPlay.Modules.UIUX",
+        "GemPlay.Integrations.ModelEditing"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

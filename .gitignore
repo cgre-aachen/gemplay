@@ -1,0 +1,41 @@
+#
+# Unity meta files
+#
+*.meta
+!project/Assets/URP/UniversalRenderPipelineAsset.asset.meta
+!project/Assets/URP/UniversalRenderPipelineAsset_Renderer.asset.meta
+!project/Assets/XR/
+!project/Assets/XR/*.meta
+!project/Assets/XR/Loaders/*.meta
+!project/Assets/XR/Settings/*.meta
+!project/Assets/GemPlay/Applications/Main/Main.cs.meta
+!project/Assets/GemPlay/Applications/Main/Main.unity.meta
+!project/Assets/GemPlay/*/ScriptableObjects/*.cs.meta
+!project/Assets/GemPlay/*/*/ScriptableObjects/*.cs.meta
+!project/Assets/Resources/UnityAssetStore/AllSkyFree/ColdSunset/*.meta
+!project/Assets/Resources/GemPlay/Materials/Occlusion.mat.meta
+!project/Assets/Resources/GemPlay/Materials/SimpleARPlane.mat.meta
+!project/Assets/Resources/GemPlay/Materials/VertexColored.mat.meta
+!project/Assets/Resources/GemPlay/Shaders/*.meta
+!project/Assets/Resources/GemPlay/Shaders/*/*.meta
+!project/Assets/Resources/GemPlay/PNG/*.meta
+!project/Assets/Resources/GemPlay/OBJ/*.meta
+
+
+#
+# C# managed plugins
+#
+project/Assets/Plugins/*
+!project/Assets/Plugins/README.md
+
+
+#
+# Assets from the Unity Asset Store
+#
+project/Assets/LunarConsole/
+
+
+#
+# Temporary files made by Unity's test framework
+#
+project/Assets/InitTestScene*

@@ -1,0 +1,19 @@
+{
+    "name": "GemPlay.Integrations.ProjectLoading",
+    "references": [
+        "GemPlay.Core",
+        "GemPlay.Modules.Projects",
+        "GemPlay.Modules.Rest",
+        "GemPlay.Modules.Spawning",
+        "GemPlay.Modules.UIUX"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
